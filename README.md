@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there!👋 I'm Matt.<br>I make websites, games, apps, and dumb projects from A to Z!</h1>
 
-<h2 align="center"><b>My Portfolio</b></h2>
+<h2 align="center" style="border-bottom: 0px;"><b>My Portfolio</b></h2>
 <h2 align="center">🌐<a href="https://matthagger.me">matthagger.me</a></h2>
 
 ---
