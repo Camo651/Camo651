@@ -1,13 +1,14 @@
-<h1 align="center"> Hi there! I'm Matt.<br>I make websites, games, apps, and dumb projects from A to Z!</h1>
+<h1 align="center"> Hi there!👋 I'm Matt.<br>I make websites, games, apps, and dumb projects from A to Z!</h1>
 
-<h2 align="center">:globe_with_meridians:<a href="https://matthagger.me">matthagger.me</a></h2>
+<h2 align="center"><b>My Portfolio</b></h2>
+<h2 align="center">🌐<a href="https://matthagger.me">matthagger.me</a></h2>
 
 ---
-
-- :bust_in_silhouette:[LinkedIn](https://www.linkedin.com/in/matt-hagger-36915b221/)
-- :video_game:[Itch.io](https://matthagger.itch.io/)
-- :pick:[Nodenium](https://projectnodenium.com/Profiles/Profile?member=Camo)
-- :camera_with_flash:[Instagram](https://www.instagram.com/haggerwoodworking/)
+**About me**
+- 👤:[LinkedIn](https://www.linkedin.com/in/matt-hagger-36915b221/)
+- 🎮:[Itch.io](https://matthagger.itch.io/)
+- ⛏️:[Nodenium](https://projectnodenium.com/Profiles/Profile?member=Camo)
+- 📸:[Instagram](https://www.instagram.com/haggerwoodworking/)
 
 ---
 
