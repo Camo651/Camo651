@@ -3,7 +3,12 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Camo651&color=blueviolet) [![wakatime](https://wakatime.com/badge/user/2d17ce26-1611-4757-bf95-fdb0da64fc74.svg)
 
+
+---
+
+![](https://komarev.com/ghpvc/?username=Camo651&color=blueviolet)
 <img src="https://github-readme-stats.vercel.app/api?username=Camo651&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Camo651&theme=tokyonight" width="50%"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camo651&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Camo651&layout=compact&theme=tokyonight)
+
+
