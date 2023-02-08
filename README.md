@@ -1,7 +1,7 @@
-## Hi there! I'm Matt.
-## I make websites, games, apps, and dumb projects from A to Z!
+# Hi there! I'm Matt.
+# I make websites, games, apps, and dumb projects from A to Z!
 
-<h4>:pensive:<a href="https://matthagger.me">matthagger.me</a></h4>
+<h2>:pensive:<a href="https://matthagger.me">matthagger.me</a></h2>
 
 ---
 
