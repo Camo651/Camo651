@@ -3,7 +3,7 @@
 
 ---
 
-	```
+```js
 {
   "firstName": "John",
   "lastName": "Smith",
