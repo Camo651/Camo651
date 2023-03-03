@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <div width="45%;">
-    <img src="https://projectnodenium.com/files/portfolio_images/faceSketch.png"/>
+  <div width="45%">
+    <img src="https://projectnodenium.com/files/portfolio_images/faceSketch.png" width="45%"/>
   </div>
   <div width="45%">
     <h2><b>My Portfolio</b></h2>
