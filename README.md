@@ -4,10 +4,10 @@
 </div>
 
 <div align="center">
-  <div style="width:45%;">
+  <div width="45%;">
     <img src="https://projectnodenium.com/files/portfolio_images/faceSketch.png"/>
   </div>
-  <div style="width:45%;">
+  <div width="45%">
     <h2><b>My Portfolio</b></h2>
     <h2><a href="https://matthagger.me">matthagger.me</a></h2>
   </div>
