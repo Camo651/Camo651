@@ -4,8 +4,8 @@
 </div>
   
 <h2><b>My Portfolio</b></h2>
-<h2>🌐<a href="https://matthagger.me">matthagger.me</a></h2>
-<iframe src="https://matthagger.me" width=160 height=90></iframe>
+<img src="https://projectnodenium.com/files/portfolio_images/faceSketch.png" width=50%/>
+<h2 style="width:100%; text-align:center;"><a href="https://matthagger.me">matthagger.me</a></h2>
 
 ---
 **About me**
