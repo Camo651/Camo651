@@ -2,10 +2,14 @@
   <h1> Hi there!👋 I'm Matt.<br>I make websites, games, apps, and dumb projects from A to Z!</h1>
   <img src="https://komarev.com/ghpvc/?username=Camo651&color=blueviolet"/>
 </div>
-  
-<h2><b>My Portfolio</b></h2>
-<img src="https://projectnodenium.com/files/portfolio_images/faceSketch.png" width=50%/>
-<h2 style="width:100%; text-align:center;"><a href="https://matthagger.me">matthagger.me</a></h2>
+
+<div align="center">
+  <img src="https://projectnodenium.com/files/portfolio_images/faceSketch.png" width="45%"/>
+  <div width="45%">
+    <h2><b>My Portfolio</b></h2>
+    <h2><a href="https://matthagger.me">matthagger.me</a></h2>
+  </div>
+</div>
 
 ---
 **About me**
