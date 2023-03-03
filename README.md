@@ -8,8 +8,7 @@
     <img src="https://projectnodenium.com/files/portfolio_images/faceSketch.png" width="45%"/>
   </div>
   <div width="45%">
-    <h2><b>My Portfolio</b></h2>
-    <h2><a href="https://matthagger.me">matthagger.me</a></h2>
+    <h2><b>My Portfolio</b><br><a href="https://matthagger.me">matthagger.me</a></h2>
   </div>
 </div>
 
