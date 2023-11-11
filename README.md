@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1> Hi there!👋 I'm Matt.<br>A fullstack dev, game designer, and computer science student</h1>
   <img src="https://komarev.com/ghpvc/?username=camo651"/>
 </div>
