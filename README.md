@@ -13,8 +13,6 @@
 **About me**
 - 👤[LinkedIn](https://www.linkedin.com/in/matt-hagger/)
 - 🎮[Itch.io](https://matthagger.itch.io/)
-- ⛏️[Nodenium](https://projectnodenium.com/Profiles/Profile?member=Camo)
-- 📸[Instagram](https://www.instagram.com/haggerwoodworking/)
 ---
 
 <div align="center">
